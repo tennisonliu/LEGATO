@@ -1,0 +1,7 @@
+{
+    "hidden_dim": 50,
+    "alpha": 1,
+    "beta": 1,
+    "lr": 0.001,
+    "weight_decay": 0.001
+}
